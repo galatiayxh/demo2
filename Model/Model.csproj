@@ -89,6 +89,7 @@
       <LastGenOutput>Company.Context.cs</LastGenOutput>
       <DependentUpon>Company.edmx</DependentUpon>
     </Content>
+    <Content Include="Company.edmx.sql" />
     <Content Include="Company.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Company.edmx</DependentUpon>
